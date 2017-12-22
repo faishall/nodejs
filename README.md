@@ -1,2 +1,2 @@
 # Belajar nodejs
-By Faishal Abrari
+Faishal
